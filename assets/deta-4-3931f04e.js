@@ -1,0 +1,1 @@
+const s="/next/assets/deta-5342473c.png",t="/next/assets/deta-1-050c8f61.png",a="/next/assets/deta-2-acaa2c35.png",e="/next/assets/deta-3-9db5e772.png",n="/next/assets/deta-4-118e7564.png";export{s as _,t as a,a as b,e as c,n as d};
